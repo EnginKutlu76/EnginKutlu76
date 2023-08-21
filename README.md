@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*HLGtY6O2vUHqIyEbWdmBgA.jpeg)
+![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*HLGtY6O2vUHqIyEbWdmBgA.jpeg)
 <h1 align="center">Hi 👋, I'm Engin Kutlu</h1>
 <h3 align="center">A passionate game developer from Türkiye</h3>
 
@@ -18,3 +18,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enginkutlu76&show_icons=true&locale=en" alt="enginkutlu76" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enginkutlu76&" alt="enginkutlu76" /></p>
+
+
+![snake gif](https://github.com/EnginKutlu76/EnginKutlu76/blob/output/github-contribution-grid-snake.gif)
